@@ -1,16 +1,76 @@
-# React + Vite
+# 📝 Full-Stack Todo App — Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About the Project
 
-Currently, two official plugins are available:
+This is the frontend of a Full-Stack Todo Application built using React and Vite. It provides a simple and interactive interface for managing daily tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The application communicates with a backend REST API to create, view, update, complete, and delete tasks. It offers a clean interface for organizing todos and tracking task completion.
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend:** https://full-stack-todo-app-ecru.vercel.app/
 
-## Expanding the ESLint configuration
+**Backend API:** https://todo-backend-e88b.onrender.com/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* ➕ Add new todo tasks
+* 📋 View existing tasks
+* ✏️ Edit task titles
+* ✅ Mark tasks as completed or incomplete
+* 🗑️ Delete tasks
+* 🔗 Communicate with the backend REST API
+* 📱 Responsive and user-friendly interface
+* ⚡ Fast development and production builds with Vite
+
+## 🛠️ Technologies Used
+
+* **React** — Building interactive user interfaces
+* **JavaScript (ES6+)** — Application logic
+* **Vite** — Development server and build tool
+* **Axios** — Making HTTP requests to the backend API
+* **CSS** — Styling the application
+* **REST API** — Frontend-backend communication
+* **Vercel** — Frontend deployment
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/saman-khan408/todo-frontend.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd todo-frontend
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 🔗 Related Project
+
+**Backend Repository:** https://github.com/saman-khan408/todo-backend
+
+## 👩‍💻 Author
+
+**Saman Khan**
+
+GitHub: https://github.com/saman-khan408
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
