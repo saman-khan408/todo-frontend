@@ -10,7 +10,7 @@ The application communicates with a backend REST API to create, view, update, co
 
 **Frontend:** https://full-stack-todo-app-ecru.vercel.app/
 
-**Backend API:** https://todo-backend-e88b.onrender.com/
+**Backend API:** https://todo-backend-e88b.onrender.com/api/
 
 ## ✨ Features
 
